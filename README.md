@@ -1,5 +1,9 @@
 # 💫 About Me:
-Welcome To Mars's Profile🚀<br>Frontend Developer ❤️<br>🎨As a software engineer , I'm constantly learning and exploring new technologies to improve my skills.<br>🚀 I'm passionate about creating beautiful and scalable web applications that provide a great user experience.<br>🔥 I love working with modern technologies and continuously learning and improving my skills.
+<h1 align = " center "> Welcome To Mars's Profile 🚀</h1>
+<h2 align = " center ">🚀<br> Frontend Developer ❤️ </h2> 
+<br>🎨As a software engineer , I'm constantly learning and exploring new technologies to improve my skills.
+<br>🚀 I'm passionate about creating beautiful and scalable web applications that provide a great user experience.
+<br>🔥 I love working with modern technologies and continuously learning and improving my skills.
 
 
 # 💻 Tech Stack:
